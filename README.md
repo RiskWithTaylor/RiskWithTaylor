@@ -55,7 +55,7 @@ Long-term? I want to use quantitative insights to influence decision-making in *
 ## 📬 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/taylor-n-wilkerson/)  
-- 📁 [My Projects](https://github.com/YourUsername?tab=repositories)  
+- 📁 [My Projects](https://github.com/RiskWithTaylor?tab=repositories)  
 - 🧠 Always open to collaboration, mentoring, or just swapping ideas!
 
 ---
