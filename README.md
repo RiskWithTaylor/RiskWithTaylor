@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Taylor Wilkerson  
-### Future Quantitative Risk Analyst and College Professor | Finance Undergrad | Purpose-Driven Data Enthusiast
+### Future Quantitative Risk Analyst and College Professor | Finance Undergrad | Creative Data Enthusiast
 
 ---
 
@@ -33,7 +33,7 @@ Driven by a passion for solving complex problems where **finance, public policy,
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning and Implementing 
 
 - Probability & Risk Theory  
 - R Programming with tidyverse   
@@ -58,9 +58,11 @@ Moreover, I want to bridge my finance backround + academia research by becoming 
 - 💼 [LinkedIn](https://www.linkedin.com/in/taylor-n-wilkerson/)  
 - 📁 [My Projects](https://github.com/RiskWithTaylor?tab=repositories)  
 - 🧠 Always open to collaboration, mentoring, or just swapping ideas!
+- Feel free as well to inquire about my own personal interests such as: NBA Basketball, K-pop, and Pokemon! 
 
 ---
 
+**Quote of the Month**
 > "When you model risk with purpose, you do more than calculate—you create impact."
 
 
