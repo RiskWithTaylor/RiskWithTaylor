@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Taylor Wilkerson  
-### Future Actuarial Scientist & Quantitative Risk Analyst | Finance Undergrad | Purpose-Driven Data Enthusiast
+### Future Quantitative Risk Analyst and College Professor | Finance Undergrad | Purpose-Driven Data Enthusiast
 
 ---
 
 ## 🎯 About Me
 
-I'm a Finance undergraduate who’s pivoting toward a data-centered, forward-looking future in **Actuarial Science and Quantitative Risk Analysis**.  
+I'm a Finance undergraduate who’s pivoting toward a data-centered, forward-looking future in **Financial Engineering and Academia**.  
 Driven by a passion for solving complex problems where **finance, public policy, and data meet**, I’m building a strong foundation in **R programming, statistics, and risk modeling** — one project at a time.
 
-> 📌 Currently preparing for Georgia State University’s **M.S. in Actuarial Science and Quantitative Risk Analysis (Spring 2027 cohort)**.
+> 📌 Currently preparing for Georgia State University’s **M.S in Quantitative Risk Analysis (Spring 2027 cohort)**.
 
 ---
 
@@ -23,23 +23,22 @@ Driven by a passion for solving complex problems where **finance, public policy,
 
 ---
 
-## 📊 Projects I'm Working On
+## 📊 Cool Projects I'm Working On
 
 | 🗂️ Repository | 🔍 Focus | 🛠️ Tech |
 |--------------|-----------|---------|
 | `risk_model_firstoffenderlaw_R` | Predicting recidivism risk under Georgia's First Offender Law | R, stats |
-| `healthjustice_claimseverity_R` | Modeling healthcare cost severity in correctional facilities | R, dplyr |
-| `finance_simulatedloanrisk_R` | Simulating small loan portfolio risk | R, actuarial methods |
-| `learning_actuarymath_prep` | Practice repo for Exam P & financial math | Markdown, R |
+| `snsd_kpop_trend_insights` | Quantifying the Impact and Global Rise of South Korea's Greatest Girl Group: Girls Generation| R, Markdown |
+| `academic_career_outlook_analyzer_in_R` | Job Market trends in Academia | R, tidyverse, ggplot2, dplyr, and shiny |
 
 ---
 
 ## 📚 Currently Learning
 
 - Probability & Risk Theory  
-- R Programming with tidyverse  
-- Actuarial math & predictive modeling  
+- R Programming with tidyverse   
 - Ethical risk analytics in public systems
+- Research & Storytelling
 
 ---
 
@@ -49,6 +48,8 @@ Driven by a passion for solving complex problems where **finance, public policy,
 **→ Insurance | Healthcare | Public Policy | Finance**  
 
 Long-term? I want to use quantitative insights to influence decision-making in **underrepresented, high-risk systems** — especially within **healthcare access and criminal justice**.
+
+Moreover, I want to bridge my finance backround + academia research by becoming a **future educator** at a university
 
 ---
 
