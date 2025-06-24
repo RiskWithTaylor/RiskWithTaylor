@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Taylor Wilkerson  
-### Future Quantitative Risk Analyst and College Professor | Finance Undergrad | Professional Data Enthusiast
+### Future Risk Analyst and College Professor | Finance Undergrad | Professional Data Enthusiast
 
 ---
 
