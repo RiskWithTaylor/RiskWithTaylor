@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Taylor Wilkerson  
-### Future Risk Analyst and College Professor | Finance Undergrad | Professional Data Enthusiast
+### Future Risk Analyst and College Professor | IT Undergrad | Professional Data Enthusiast
 
 ---
 
 ## 🎯 About Me
 
-I'm a Finance undergraduate who’s pivoting toward a data-centered, forward-looking future in **Financial Engineering and Academia**.  
+I'm a Information Technology undergraduate who’s pivoting toward a data-centered, forward-looking future in **Cyber Security Risk and Academia**.  
 Driven by a passion for solving complex problems where **finance, public policy, and data meet**, I’m building a strong foundation in **R programming, statistics, and risk modeling** — one project at a time.
 
-> 📌 Currently preparing for Georgia State University’s **M.S in Quantitative Risk Analysis (Spring 2027 cohort)**.
+> 📌 Currently preparing for Western Governors University’s **M.S in Cybersecurity and Information Assurance (Spring 2026)**.
 
 ---
 
@@ -45,11 +45,11 @@ Driven by a passion for solving complex problems where **finance, public policy,
 ## 🚀 Career Vision
 
 📌 I aim to become a risk expert working at the intersection of:  
-**→ Insurance | Healthcare | Public Policy | Finance**  
+**→ Insurance | Cybersecurity | Public Policy | FinTech**  
 
-Long-term? I want to use quantitative insights to influence decision-making in **underrepresented, high-risk systems** — especially within **healthcare access and criminal justice**.
+Long-term? I want to use quantitative insights to influence decision-making in **underrepresented, high-risk systems** — especially within **healthcare access and Technology**.
 
-Moreover, I want to bridge my finance backround + academia research by becoming a **future educator** at a university
+Moreover, I want to bridge my Information Technology backround + academia research by becoming a **future educator** at a university later in my career
 
 ---
 
@@ -58,7 +58,7 @@ Moreover, I want to bridge my finance backround + academia research by becoming 
 - 💼 [LinkedIn](https://www.linkedin.com/in/taylor-n-wilkerson/)  
 - 📁 [My Projects](https://github.com/RiskWithTaylor?tab=repositories)  
 - 🧠 Always open to collaboration, mentoring, or just swapping ideas!
-- Feel free as well to inquire about my own personal interests such as: NBA Basketball, K-pop, and Pokemon! 
+- Feel free as well to inquire about my own personal interests such as: NBA Basketball, K-pop, and Pokémon! 
 
 ---
 
