@@ -6,9 +6,9 @@
 ## 🎯 About Me
 
 I'm a Information Technology undergraduate who’s pivoting toward a data-centered, forward-looking future in **Cyber Security Risk and Academia**.  
-Driven by a passion for solving complex problems where **finance, public policy, and data meet**, I’m building a strong foundation in **R programming, statistics, and risk modeling** — one project at a time.
+Driven by a passion for solving complex problems where **Cybersecurity, public policy, and data meet**, I’m building a strong foundation in **R programming, statistics, and risk modeling** — one project at a time.
 
-> 📌 Currently preparing for Western Governors University’s **M.S in Cybersecurity and Information Assurance (Spring 2026)**.
+> 📌 Currently preparing for Western Governors University’s **M.S in Cybersecurity and Information Assurance (Winter 2025) and M.S in Supply Chain Management (Fall 2026)**.
 
 ---
 
