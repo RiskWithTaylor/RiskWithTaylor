@@ -5,10 +5,10 @@
 
 ## 🎯 About Me
 
-I'm a Information Technology undergraduate who’s pivoting toward a data-centered, forward-looking future in **Cyber Security Risk and Academia**.  
-Driven by a passion for solving complex problems where **Cybersecurity, public policy, and data meet**, I’m building a strong foundation in **R programming, statistics, and risk modeling** — one project at a time.
+I'm a Information Technology undergraduate who’s pivoting toward a data-centered, forward-looking future in **Actuarial Science and Academia**.  
+Driven by a passion for solving complex problems where **Climate & Catastrophe Modeling, Financial Risk, and Health Insurance**, I’m building a strong foundation in **R programming, statistics, and risk modeling** — one project at a time.
 
-> 📌 Currently preparing for Western Governors University’s **M.S in Cybersecurity and Information Assurance (Winter 2025) and M.S in Supply Chain Management (Fall 2026)**.
+> 📌 Currently preparing for Western Governors University’s **M.S in Data Science (Winter 2025) and M.S in Actuarial Science (Spring 2027)**.
 
 ---
 
@@ -47,7 +47,7 @@ Driven by a passion for solving complex problems where **Cybersecurity, public p
 📌 I aim to become a risk expert working at the intersection of:  
 **→ Insurance | Cybersecurity | Public Policy | FinTech**  
 
-Long-term? I want to use quantitative insights to influence decision-making in **underrepresented, high-risk systems** — especially within **healthcare access and Technology**.
+Long-term? I want to use quantitative insights to influence decision-making in **underrepresented, high-risk systems** — especially within **Healthcare access and Technology**.
 
 Moreover, I want to bridge my Information Technology backround + academia research by becoming a **future educator** at a university later in my career
 
@@ -62,8 +62,8 @@ Moreover, I want to bridge my Information Technology backround + academia resear
 
 ---
 
-**Quote of the Month**
-> "When you model risk with purpose, you do more than calculate—you create impact."
+**Quote of the Quarter**
+> "Every line of code, every model- a step towards mastery."
 
 
 <!--
