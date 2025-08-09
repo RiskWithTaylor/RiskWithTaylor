@@ -34,28 +34,28 @@ Driven by a passion for solving complex problems where **Catastrophe Modeling, F
 ---
 
 ## 📂 Thought Process Playbook
-1. [Problem Definition](./Problem-Definition)
+1. Problem Definition
  – Defining the business question and actuarial context.
 
-2. [Data Understanding](./Data-Understanding) 
+2. Data Understanding
  – Profiling and gathering high-quality data.
 
-3. [Data Preparation](./Data-Preparation)
+3. Data Preparation
  – Cleaning, feature engineering, and actuarial transformations.
 
-4. [Modeling Approach](./Modeling-Approach) 
+4. Modeling Approach
  – Statistical models and machine learning methods.
 
-5. [Results Interpretation](./Results-Interpretation) 
+5. Results Interpretation
 – Translating numbers into business insight.
 
-6. [Conclusion Next Steps](./Conclusion-Next-Steps) 
+6. Conclusion and Next steps 
  – Lessons learned and potential improvements.
 
-7. [Project Archive](./Project-Archive) 
+7. Project Archive 
  – A quick list of past work and datasets.
 
-🔍 How to Use This Wiki
+🔍 How to Use My Wiki:
 * Start from Problem Definition to see how I approach new datasets.
 
 * Follow through each page in order to see the full modeling lifecycle.
