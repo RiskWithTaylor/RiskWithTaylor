@@ -33,6 +33,26 @@ Driven by a passion for solving complex problems where **Catastrophe Modeling, F
 
 ---
 
+## 📂 Wiki Playbook
+Data Understanding & Collection
+
+Data Preparation
+
+Modeling Approach
+
+Results & Interpretation
+
+Conclusion & Next Steps
+
+🔍 How to Use This Wiki
+* Start from Data Understanding & Collection to see how I approach new datasets.
+
+* Follow through each page in order to see the full modeling lifecycle.
+
+* Each section contains examples, code snippets (R), and actuarial-specific context.
+
+***
+
 ## 📚 Currently Learning and Implementing 
 
 - Probability & Risk Theory  
