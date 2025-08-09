@@ -6,7 +6,7 @@ Exam FM(December 2025)
 ## 🎯 About Me
 
 I'm a Information Technology undergraduate who’s pivoting toward a data-centered, forward-looking future in **Actuarial Science and Academia**.  
-Driven by a passion for solving complex problems where **Climate & Catastrophe Modeling, Financial Risk, and Health Insurance**, I’m building a strong foundation in **R programming, statistics, and risk modeling** — one project at a time.
+Driven by a passion for solving complex problems where **Catastrophe Modeling, Financial Risk, and Health Insurance meet**, I’m building a strong foundation in **R programming, statistics, and risk modeling** — one project at a time.
 
 > 📌 Currently preparing for Western Governors University’s **M.S in Data Science (Winter 2025) and M.S in Actuarial Science (Spring 2027)**.
 
