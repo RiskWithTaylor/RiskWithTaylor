@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Taylor Wilkerson  
-### Future Risk Analyst and College Professor | IT Undergrad | Professional Data Enthusiast
-
+### Future Actuary and College Professor | IT Undergrad | ASA Candidate
+Exam FM(December 2025)
 ---
 
 ## 🎯 About Me
