@@ -1,1 +1,21 @@
 
+1. [Problem Definition](./Problem-Definition)
+ – Defining the business question and actuarial context.
+
+2. [Data Understanding](./Data-Understanding) 
+ – Profiling and gathering high-quality data.
+
+3. [Data Preparation](./Data-Preparation)
+ – Cleaning, feature engineering, and actuarial transformations.
+
+4. [Modeling Approach](./Modeling-Approach) 
+ – Statistical models and machine learning methods.
+
+5. [Results Interpretation](./Results-Interpretation) 
+– Translating numbers into business insight.
+
+6. [Conclusion Next Steps](./Conclusion-Next-Steps) 
+ – Lessons learned and potential improvements.
+
+7. [Project Archive](./Project-Archive) 
+ – A quick list of past work and datasets.
