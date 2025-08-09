@@ -56,7 +56,7 @@ Driven by a passion for solving complex problems where **Catastrophe Modeling, F
  – A quick list of past work and datasets.
 
 🔍 How to Use This Wiki
-* Start from Data Understanding & Collection to see how I approach new datasets.
+* Start from Problem Definition to see how I approach new datasets.
 
 * Follow through each page in order to see the full modeling lifecycle.
 
