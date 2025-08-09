@@ -58,12 +58,12 @@ Moreover, I want to bridge my Information Technology backround + academia resear
 - 💼 [LinkedIn](https://www.linkedin.com/in/taylor-n-wilkerson/)  
 - 📁 [My Projects](https://github.com/RiskWithTaylor?tab=repositories)  
 - 🧠 Always open to collaboration, mentoring, or just swapping ideas!
-- Feel free as well to inquire about my own personal interests such as: NBA Basketball, K-pop, and Pokémon! 
+- Feel free as well to inquire about my own personal interests such as: NBA Basketball, Bodybuilding, and K-pop!
 
 ---
 
-**Quote of the Quarter**
-> "Every line of code, every model- a step towards mastery."
+**Quote of the Month**
+> "Every line of code, every model, a step towards self-mastery."
 
 
 <!--
