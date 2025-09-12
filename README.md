@@ -70,10 +70,13 @@ My mission is to help organizations protect their digital assets, evaluate third
 
 ## 📚 Currently Learning and Implementing 
 
-- Probability & Risk Theory  
-- R Programming with tidyverse   
-- Ethical risk analytics in public systems
-- Research & Storytelling
+| Category        | Tools / Skills                             |
+|----------------|---------------------------------------------|
+| Cybersecurity   | Security+, ISC2 CC, Pentest+, CySA+, CASP+ (in progress) |
+| Cloud & DevSecOps | AWS (Foundational, SA), GitHub, CLI        |
+| FinTech Risk    | Threat Modeling, Payment Systems, RegTech  |
+| Data & Analytics| Excel, SQL, Tableau, R (beginner)          |
+| Business & Risk | P&C License (2026), ITIL v4, Audit Templates |
 
 ---
 
