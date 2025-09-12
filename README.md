@@ -1,14 +1,18 @@
-# 👋 Hi, I'm Taylor Wilkerson  
-### Future Actuary and College Professor | IT Undergrad | ASA Candidate
-Exam FM(December 2025)
+# 👋 Hi, I'm Taylor Wilkerson
+## 🎓 B.S. in IT Management (September 2025)
+## 🔐 M.S. Cybersecurity & Information Assurance (WGU – Starting Dec 2025)
+## 📈 Future: M.S. #2 (Cybersecurity, FinTech, or Data Science – TBD)  
+## 🏢 Current: Aon | 📍 Atlanta, GA | 📊 Cyber | 📉 Risk | 💡 Strategy  
 ---
 
 ## 🎯 About Me
+I'm a multidimensional builder with a passion for cybersecurity, financial technology, and risk advisory.  
 
-I'm a Information Technology undergraduate who’s pivoting toward a data-centered, forward-looking future in **Actuarial Science and Academia**.  
-Driven by a passion for solving complex problems where **Catastrophe Modeling, Financial Risk, and Health Insurance meet**, I’m building a strong foundation in **R programming, statistics, and risk modeling** — one project at a time.
+I believe in resilience not just as a defense mechanism, but as a **strategic advantage**. 
 
-> 📌 Currently preparing for Western Governors University’s **M.S in Data Science (Winter 2025) and M.S in Actuarial Science (Spring 2027)**.
+My mission is to help organizations protect their digital assets, evaluate third-party risk, and build long-term business integrity in a world driven by data.
+
+> 📌 Currently preparing for CompTIA Certifications **Security+ and Pentest+)**.
 
 ---
 
@@ -87,14 +91,15 @@ Moreover, I want to bridge my Information Technology backround + academia resear
 ## 📬 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/taylor-n-wilkerson/)  
-- 📁 [My Projects](https://github.com/RiskWithTaylor?tab=repositories)  
+- 📁 [My Projects](https://github.com/RiskWithTaylor?tab=repositories)
+- 🚀 Building in Public | Studying in Silence | Scaling in Phases
 - 🧠 Always open to collaboration, mentoring, or just swapping ideas!
 - Feel free as well to inquire about my own personal interests such as: NBA Basketball, Bodybuilding, and K-pop!
-
 ---
 
 **Quote of the Month**
-> "Every line of code, every model, a step towards self-mastery."
+> > **"You don't need to be perfect. You need to be multidimensional."**  
+> — *Taylor Wilkerson, Cyber Strategist in Progress*
 
 
 <!--
