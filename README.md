@@ -102,7 +102,7 @@ Moreover, I want to bridge my Information Technology backround + academia resear
 
 **Quote of the Month**
 > > **"You don't need to be perfect. You need to be multidimensional."**  
-> — *Taylor Wilkerson, Cyber Strategist in Progress*
+> — *Taylor Wilkerson, ASA in Progress*
 
 
 <!--
