@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Taylor Wilkerson
 ## 🎓 B.S. in IT Management (September 2025)
-## 🔐 M.S. Data Analytics (WGU – Starting Dec 2025)
-## 📈 Future: M.S. #2 (Actuarial Science or Cybersecurity)
+## 🔐 M.S. Cybersecurity and Information Assurance (WGU – Starting Dec 2025)
+## 📈 Future: M.S. #2 (Digital Financial Technologies- KSU)
+## 📈 Future: M.S. #3 (Data Science- University of Pittsburgh)
 ## 🏢 Current: Aon | 📍 Atlanta, GA | 📊 Cyber | 📉 Risk | 💡 Strategy  
 ---
 
@@ -12,7 +13,7 @@ I believe in resilience not just as a defense mechanism, but as a **strategic ad
 
 My mission is to help organizations protect their digital assets, evaluate third-party risk, and build long-term business integrity in a world driven by data.
 
-> 📌 Currently preparing for CompTIA Certifications **Security+ and Pentest+)**.
+> 📌 Currently preparing for CompTIA Certifications **Security+ and CySA+)**.
 
 ---
 
@@ -26,7 +27,7 @@ My mission is to help organizations protect their digital assets, evaluate third
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ---
-
+ 
 ## 📊 Cool Projects I'm Working On
 
 | 🗂️ Repository | 🔍 Focus | 🛠️ Tech |
@@ -85,7 +86,7 @@ My mission is to help organizations protect their digital assets, evaluate third
 📌 I aim to become a risk expert working at the intersection of:  
 **→ Insurance | Cybersecurity | Public Policy | FinTech**  
 
-Long-term? I want to use quantitative insights to influence decision-making in **underrepresented, high-risk systems** — especially within **Healthcare access and Technology**.
+Long-term? I want to use quantitative insights to influence decision-making in **underrepresented, high-risk systems** — especially within **Healthcare Access and Technology**.
 
 Moreover, I want to bridge my Information Technology backround + academia research by becoming a **future educator** at a university later in my career
 
@@ -101,8 +102,8 @@ Moreover, I want to bridge my Information Technology backround + academia resear
 ---
 
 **Quote of the Month**
-> > **"You don't need to be perfect. You need to be multidimensional."**  
-> — *Taylor Wilkerson, ASA in Progress*
+> > **"I don't beleive in perfection, only stubborn persistance"**  
+> — *Taylor Wilkerson, M.S in Progress*
 
 
 <!--
