@@ -102,7 +102,7 @@ Moreover, I want to bridge my Information Technology backround + academia resear
 ---
 
 **Quote of the Month**
-> > **"I don't beleive in perfection, only stubborn persistance"**  
+> > **"Resilance is a strategy, make it yours today"**  
 > — *Taylor Wilkerson, M.S in Progress*
 
 
