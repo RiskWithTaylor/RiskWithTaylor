@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Taylor Wilkerson
 ## 🎓 B.S. in IT Management (September 2025)
-## 🔐 M.S in Cybersecurity and Information Assurance (WGU – Starting Dec 2025)
-## 📈 Future: M.S. #2 (Data Science- University Of Pittsburgh)
-## 📈 Future: M.S. #3 (AI- Colorado State Univeristy)
+## 🔐 M.S in Data Analytics (WGU – Starting Dec 2025)
+## 📈Future: M.S. #2 (AI- Colorado State Univeristy)
 ## 🏢 Current: Aon | 📍 Atlanta, GA | 📊 Cyber | 📉 Risk | 💡 Strategy  
 ---
 
