@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Taylor Wilkerson
 ## 🎓 B.S. in IT Management (September 2025)
 ## 🔐 M.S in Data Analytics (WGU – Starting Dec 2025)
-## 📈Future: M.S. #2 (AI- Colorado State Univeristy)
+## 📈Future: B.S in Software Engineering (WGU - (C# track)
 ## 🏢 Current: Aon | 📍 Atlanta, GA | 📊 Cyber | 📉 Risk | 💡 Strategy  
 ---
 
@@ -33,13 +33,13 @@ My mission is to help organizations protect their digital assets, evaluate third
 |--------------|-----------|---------|
 | `risk_model_firstoffenderlaw_R` | Predicting recidivism risk under Georgia's First Offender Law | R, stats |
 | `snsd_kpop_trend_insights` | Quantifying the Impact and Global Rise of South Korea's Greatest Girl Group: Girls Generation| R, Markdown |
-| `academic_career_outlook_analyzer_in_R` | Job Market trends in Academia | R, tidyverse, ggplot2, dplyr, and shiny |
+| `NBA2k Ratings Lab` | Job Market trends in Academia | R, tidyverse, ggplot2, dplyr, and shiny |
 
 ---
 
 ## 📂 Thought Process Playbook
 1. Problem Definition
- – Defining the business question and actuarial context.
+ – Defining the business question and risk context.
 
 2. Data Understanding
  – Profiling and gathering high-quality data.
