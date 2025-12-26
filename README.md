@@ -31,9 +31,9 @@ My mission is to help organizations protect their digital assets, evaluate third
 
 | 🗂️ Repository | 🔍 Focus | 🛠️ Tech |
 |--------------|-----------|---------|
-| `risk_model_firstoffenderlaw_R` | Predicting recidivism risk under Georgia's First Offender Law | R, stats |
+| `The Cyber Essentials Hardening Playbook` | Cybersecurity and Cloud Risk best practices | Markdown, Quant Risk, GRC |
 | `snsd_kpop_trend_insights` | Quantifying the Impact and Global Rise of South Korea's Greatest Girl Group: Girls Generation| R, Markdown |
-| `NBA2k Ratings Lab` | Job Market trends in Academia | R, tidyverse, ggplot2, dplyr, and shiny |
+| `NBA2k Ratings Lab` | Custom 2k-style rating formulas with Visuals| Python, pandas |
 
 ---
 
