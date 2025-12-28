@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Taylor Wilkerson
 ## 🎓 B.S. in IT Management (September 2025)
 ## 🔐 M.S in Data Analytics (WGU – Starting Dec 2025)
-## 📈Future: B.S in Software Engineering (WGU - (C# track)
 ## 🏢 Current: Aon | 📍 Atlanta, GA | 📊 Cyber | 📉 Risk | 💡 Strategy  
 ---
 
