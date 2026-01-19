@@ -74,7 +74,7 @@ My mission is to help organizations protect their digital assets, evaluate third
 | Cybersecurity   | Security+, ISC2 CC, Pentest+, CySA+, CASP+ (in progress) |
 | Cloud & DevSecOps | AWS (Foundational, SA), GitHub, CLI        |
 | FinTech Risk    | Threat Modeling, Payment Systems, RegTech  |
-| Data & Analytics| Excel, SQL, Tableau, R (beginner)          |
+| Data & Analytics| Excel, SQL, Tableau, Python, and R (beginner)          |
 | Business & Risk | P&C License (2026), ITIL v4, Audit Templates |
 
 ---
@@ -82,7 +82,7 @@ My mission is to help organizations protect their digital assets, evaluate third
 ## 🚀 Career Vision
 
 📌 I aim to become a risk expert working at the intersection of:  
-**→ Insurance | Cybersecurity | Public Policy | FinTech**  
+**→ Insurance | Public Policy | FinTech**  
 
 Long-term? I want to use quantitative insights to influence decision-making in **underrepresented, high-risk systems** — especially within **Healthcare Access and Technology**.
 
