@@ -1,18 +1,20 @@
 # 👋 Hi, I'm Taylor Wilkerson
 ## 🎓 B.S. in IT Management (September 2025)
 ## 🔐 M.S in Data Analytics (WGU – Starting Dec 2025)
-## 🏢 Current: Aon | 📍 Atlanta, GA | 📊 Cyber | 📉 Risk | 💡 Strategy  
+## 🏢 Current: Aon | 📍 Atlanta, GA | 📊 Financial Engineering | 📉 Risk | 💡 Strategy  
 ---
 
 ## 🎯 About Me
-I'm a multidimensional builder with a passion for cybersecurity, financial technology, and risk advisory.  
+I'm a multidimensional builder with a passion for financial technology, data analytics, and risk advisory.  
 
 I believe in resilience not just as a defense mechanism, but as a **strategic advantage**. 
 
 My mission is to help organizations protect their digital assets, evaluate third-party risk, and build long-term business integrity in a world driven by data.
 
-> 📌 Currently preparing for CompTIA Certifications **Security+ and CySA+)**.
-
+> 📌 **Currently preparing for further graduate in Quanatative Risk Analytics**.
+ - Calculus Series (I, II, III)
+ - Linear Algerbra
+ - Statistics(Regression, Multivariate)
 ---
 
 ## 🔧 Tools & Tech Stack
@@ -75,7 +77,7 @@ My mission is to help organizations protect their digital assets, evaluate third
 | Cloud & DevSecOps | AWS (Foundational, SA), GitHub, CLI        |
 | FinTech Risk    | Threat Modeling, Payment Systems, RegTech  |
 | Data & Analytics| Excel, SQL, Tableau, Python, and R (beginner)          |
-| Business & Risk | P&C License (2026), ITIL v4, Audit Templates |
+| Business & Risk | P&C License (2026), ITIL v4(Renewal), Audit Templates |
 
 ---
 
