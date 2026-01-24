@@ -65,7 +65,7 @@ My mission is to help organizations protect their digital assets, evaluate third
 
 * Follow through each page in order to see the full modeling lifecycle.
 
-* Each section contains examples, code snippets (R), and actuarial-specific context.
+* Each section contains examples, code snippets (Python), and actuarial-specific context.
 
 ***
 
