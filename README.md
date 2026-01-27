@@ -11,7 +11,7 @@ I believe in resilience not just as a defense mechanism, but as a **strategic ad
 
 My mission is to help organizations protect their digital assets, evaluate third-party risk, and build long-term business integrity in a world driven by data.
 
-> 📌 **Currently preparing for further graduate in Quantitative Risk Analytics**.
+> 📌 **Currently preparing for further graduate study in Quantitative Risk Analytics**.
  - Calculus Series (I, II, III)
  - Linear Algerbra
  - Statistics(Regression, Multivariate)
