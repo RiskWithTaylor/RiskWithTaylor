@@ -2,7 +2,7 @@
 
 ## 🎓 B.S. in IT Management (September 2025)
 ## 🔐 M.S in Data Analytics(Data Science Concentration) (WGU – Starting Dec 2025)
-## 🏢 Current: Aon | 📍 Atlanta, GA | 📊 Financial Engineering | 📉 Risk | 💡 Strategy 
+## 🏢 Current: AON | 📍 Atlanta, GA | 📊 Financial Engineering | 📉 Risk | 💡 Strategy 
 
 ---
 
