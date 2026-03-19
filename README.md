@@ -1,7 +1,7 @@
 # Taylor N. Wilkerson
 
 ## 🎓 B.S. in IT Management (September 2025)
-## 🔐 M.S in Data Analytics(Data Science Concentration) (WGU – Starting Dec 2025)
+## 🔐 M.S in Data Analytics(Data Engineering Concentration) (WGU – Starting Dec 2025)
 ## 🏢 Current: AON | 📍 Atlanta, GA | 📊 Financial Engineering | 📉 Risk | 💡 Strategy 
 
 ---
