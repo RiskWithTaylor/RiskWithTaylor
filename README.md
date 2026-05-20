@@ -1,74 +1,96 @@
 # Taylor N. Wilkerson
 
-## 🎓 B.S. in IT Management (September 2025)
-## 🔐 M.S in Data Analytics(Data Engineering Concentration) (WGU – Starting Dec 2025)
-## 🏢 Current: AON | 📍 Atlanta, GA | 📊 Financial Engineering | 📉 Risk | 💡 Strategy 
+## 🎓 B.S. in IT Management — Western Governors University (2025)
+## 🎓 M.S. in Data Analytics, Data Engineering Concentration — Western Governors University (2026)
+## 👨🏾‍⚕️ Prospective Medical School Applicant — 2027–2028 Cycle
+## 🧠 Healthcare Analytics | 📊 Data Science | 🏥 Medicine | ⚙️ Risk-System Thinking
+
 
 ---
 
 ## Profile
+I am a data analytics graduate and prospective medical school applicant with interests in healthcare analytics, surgical outcomes research, neuroscience, and cardiovascular medicine.
 
-I focus on quantitative risk modeling and financial systems analysis.
+My background combines technical training in data engineering, analytics, and statistical modeling with a growing focus on medicine, healthcare systems, and clinical research.
 
-My work centers on applying statistical methods and programming to market risk, portfolio analytics, and capital efficiency problems.
+I am particularly interested in:
+- Surgical outcomes research
+- Healthcare disparities
+- Neuroscience and cardiovascular disease
+- Predictive analytics in healthcare
+- Clinical decision support systems
+- Data-driven healthcare improvement
 
-I am currently preparing for advanced graduate study in Quantitative Risk Analytics through rigorous training in:
+My long-term goal is to bridge medicine, analytics, and research to improve patient outcomes and healthcare delivery.
 
-- Calculus I–III
-- Linear Algebra
-- Probability & Mathematical Statistics
-- Regression & Multivariate Methods
+---
 
-My objective is to bridge mathematical theory with practical financial risk implementation.
+## 🧠 Medicine & Clinical Research
+- General Surgery
+- Neurosurgery
+- Cardiovascular Medicine
+- Surgical Outcomes Research
+- Trauma & Critical Care Analytics
+- Healthcare Disparities
+- Preventive Medicine & Population Health
 
+## 📊 Data Analytics & Engineering
+- Predictive Modeling
+- Statistical Analysis
+- Data Visualization
+- Healthcare Data Pipelines
+- ETL Development
+- Dashboard & Reporting Solutions
+- Machine Learning Fundamentals
+
+## 💻 Technical Skills
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Tableau
+- Jupyter Notebook
+- Excel
+- Git & GitHub
+- Linux Fundamentals
+- Cloud & Data Engineering Concepts
 
 ---
  
 ## 📊 Cool Projects I'm Working On
 
 | Repository | Description |
-|------------|------------|
-| Rolling Historical VaR + Backtesting | Implements rolling-window VaR with Kupiec test validation |
-| SNSD K-Pop Trend Insights | Time-series and data analysis of global music trends |
+| Surgical Outcomes Analytics | Exploratory healthcare analytics focused on postoperative complications and patient outcomes |
+| Healthcare Disparities Dashboard | Data visualization project analyzing disparities in healthcare access and outcomes |
+| STEDI Data Engineering Pipeline | Cloud-based ETL and analytics architecture project |
 | Cyber Essentials Hardening Playbook | Risk and security control framework documentation |
 
 ---
 
 ## 🔬 Current Focus Areas
 
-I am actively building technical depth in the following domains:
-
-### 📊 Quantitative Finance & Risk
-- Market Risk Modeling (VaR, CVaR, Stress Testing)
-- Fixed Income & Derivatives Analytics
-- Portfolio Risk Attribution
-- Regulatory Capital & Basel Frameworks
-
-### 🧠 Data & Quantitative Tools
-- Python (NumPy, Pandas, SciPy)
-- SQL (PostgreSQL)
-- JupyterLab
-- Excel (Advanced Modeling)
-- R (Foundational)
-
-### ☁️ Infrastructure & Systems
-- Git & GitHub (Version Control)
-- Linux CLI
-- Cloud Fundamentals (AWS)
-- Secure Data Handling Practices
+- Build independent healthcare research projects
+- Develop a public portfolio of medical analytics work
+- Gain clinical exposure and volunteer experience
+- Strengthen scientific writing and research communication
+- Prepare for the MCAT and medical school applications
+- Continue integrating analytics with healthcare and medicine
 
 ---
 
-## 🎯 Career Vision
+# 📚 Current Academic Preparation
 
-I aim to work at the intersection of:
+I am continuing independent study in:
+- Biology
+- Microbiology
+- Human Anatomy & Physiology
+- Biostatistics
+- Research Methods
+- Medical Terminology
 
-> **Capital Markets × Quantitative Risk × Financial Systems**
-
-Long-term, my goal is to:
-- Design and implement risk models for banks, hedge funds, or asset managers
-- Apply quantitative methods to improve capital efficiency and portfolio performance
-- Bridge technical modeling with real-world financial decision-making
+As well as quantitative coursework in:
+- Calculus
+- Statistics
+- Regression Analysis
+- Data Modeling
 
 ---
 
