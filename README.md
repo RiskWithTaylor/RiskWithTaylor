@@ -58,6 +58,7 @@ My long-term goal is to bridge medicine, analytics, and research to improve pati
 ## 📊 Cool Projects I'm Working On
 
 | Repository | Description |
+|------------|------------|
 | Surgical Outcomes Analytics | Exploratory healthcare analytics focused on postoperative complications and patient outcomes |
 | Healthcare Disparities Dashboard | Data visualization project analyzing disparities in healthcare access and outcomes |
 | STEDI Data Engineering Pipeline | Cloud-based ETL and analytics architecture project |
