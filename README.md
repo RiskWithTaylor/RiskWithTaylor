@@ -59,7 +59,7 @@ My long-term goal is to bridge medicine, analytics, and research to improve pati
 
 | Repository | Description |
 |------------|------------|
-| Surgical Outcomes Analytics | Exploratory healthcare analytics focused on postoperative complications and patient outcomes |
+| AVM Injury outcomes | Independent neurosurgical outcomes research examining cerebral AVMs, treatment decision-making, postoperative recovery |
 | Healthcare Disparities Dashboard | Data visualization project analyzing disparities in healthcare access and outcomes |
 | STEDI Data Engineering Pipeline | Cloud-based ETL and analytics architecture project |
 | Cyber Essentials Hardening Playbook | Risk and security control framework documentation |
