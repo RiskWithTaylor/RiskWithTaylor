@@ -1,97 +1,130 @@
 # Taylor N. Wilkerson
 
-## 🎓 B.S. in IT Management — Western Governors University (2025)
-## 🎓 M.S. in Data Analytics, Data Engineering Concentration — Western Governors University (2026)
-## 👨🏾‍⚕️ Prospective Medical School Applicant — 2027–2028 Cycle
-## 🧠 Healthcare Analytics | 📊 Data Science | 🏥 Medicine | ⚙️ Risk-System Thinking
+## Data Analytics Professional | Data Engineering | AI & Machine Learning
 
-
----
-
-## Profile
-I am a data analytics graduate and prospective medical school applicant with interests in healthcare analytics, surgical outcomes research, neuroscience, and cardiovascular medicine.
-
-My background combines technical training in data engineering, analytics, and statistical modeling with a growing focus on medicine, healthcare systems, and clinical research.
-
-I am particularly interested in:
-- Surgical outcomes research
-- Healthcare disparities
-- Neuroscience and cardiovascular disease
-- Predictive analytics in healthcare
-- Clinical decision support systems
-- Data-driven healthcare improvement
-
-My long-term goal is to bridge medicine, analytics, and research to improve patient outcomes and healthcare delivery.
+🎓 **B.S. in Information Technology Management** — Western Governors University, 2025  
+🎓 **M.S. in Data Analytics, Data Engineering Concentration** — Western Governors University, 2026  
+🧠 **Preparing for M.S. Computer Science — Artificial Intelligence & Machine Learning**  
+💼 **Data Analytics & Reporting Analyst**
 
 ---
 
-## 🧠 Medicine & Clinical Research
-- General Surgery
-- Neurosurgery
-- Cardiovascular Medicine
-- Surgical Outcomes Research
-- Trauma & Critical Care Analytics
-- Healthcare Disparities
-- Preventive Medicine & Population Health
+## About Me
 
-## 📊 Data Analytics & Engineering
-- Predictive Modeling
-- Statistical Analysis
-- Data Visualization
-- Healthcare Data Pipelines
-- ETL Development
-- Dashboard & Reporting Solutions
-- Machine Learning Fundamentals
+I am a data analytics professional with a background in data engineering, business intelligence, statistical modeling, and applied machine learning. I use Python, SQL, visualization tools, and cloud-based data technologies to transform complex data into scalable analytical solutions and actionable business insights.
 
-## 💻 Technical Skills
-- Python (Pandas, NumPy, Scikit-learn)
+My current technical development is focused on strengthening my computer science foundation and expanding into advanced machine learning, deep learning, natural language processing, recommendation systems, automation, and production-ready AI.
+
+I am particularly interested in applying data and AI to financial technology, risk, healthcare, and other complex decision-making environments.
+
+---
+
+## Technical Focus
+
+### Data Engineering
+
+- ETL and ELT pipeline development
+- Data modeling and data warehousing
+- Data integration and transformation
+- Data quality and governance
+- Cloud-based data infrastructure
+- Pipeline automation and optimization
+
+### Data Science and Machine Learning
+
+- Predictive modeling
+- Regression and classification
+- Model evaluation and optimization
+- Statistical analysis
+- Feature engineering
+- Recommendation systems
+- Applied artificial intelligence
+
+### Analytics and Business Intelligence
+
+- Business intelligence reporting
+- Dashboard development
+- Data visualization
+- Forecasting and trend analysis
+- Operational analytics
+- Decision-support solutions
+- Technical and business communication
+
+---
+
+## Technical Skills
+
+### Programming and Querying
+
+- Python
 - SQL
+- Java fundamentals
+- Linux and shell fundamentals
+
+### Python Libraries
+
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+### Data and Analytics
+
+- ETL/ELT
+- Data modeling
+- Statistical modeling
+- Machine learning
 - Tableau
-- Jupyter Notebook
 - Excel
-- Git & GitHub
-- Linux Fundamentals
-- Cloud & Data Engineering Concepts
+- Jupyter Notebook
 
----
- 
-## 📊 Cool Projects I'm Working On
+### Engineering and Platforms
 
-| Repository | Description |
-|------------|------------|
-| AVM Injury outcomes | Independent neurosurgical outcomes research examining cerebral AVMs, treatment decision-making, postoperative recovery |
-| Healthcare Disparities Dashboard | Data visualization project analyzing disparities in healthcare access and outcomes |
-| STEDI Data Engineering Pipeline | Cloud-based ETL and analytics architecture project |
-| Cyber Essentials Hardening Playbook | Risk and security control framework documentation |
+- Git and GitHub
+- MLflow
+- MongoDB
+- Microsoft Azure
+- Cloud and data-engineering concepts
+- CI/CD fundamentals
 
 ---
 
-## 🔬 Current Focus Areas
+## Featured Projects
 
-- Build independent healthcare research projects
-- Develop a public portfolio of medical analytics work
-- Gain clinical exposure and volunteer experience
-- Strengthen scientific writing and research communication
-- Prepare for the MCAT and medical school applications
-- Continue integrating analytics with healthcare and medicine
+| Project | Description |
+|---|---|
+| **Georgia Health Outcomes Analysis** | Graduate capstone analyzing county-level health outcomes using regression, random forest modeling, and public-health datasets from CDC PLACES and USDA ERS. |
+| **Airline Delay MLflow Pipeline** | Machine-learning workflow incorporating experiment tracking, model evaluation, and reproducible development practices. |
+| **STEDI Data Engineering Pipeline** | Cloud-based ETL architecture designed to ingest, transform, validate, and prepare data for downstream analytics. |
+| **Healthcare Disparities Dashboard** | Data-visualization project examining differences in healthcare access, population health, and clinical outcomes. |
+| **Cerebral AVM Outcomes Research** | Independent healthcare analytics project examining cerebral AVMs, treatment decisions, and postoperative outcomes. |
+| **Cyber Essentials Hardening Playbook** | Security and risk-control framework designed to support practical system-hardening decisions. |
 
 ---
 
-# 📚 Current Academic Preparation
+## Current Development
 
-I am continuing independent study in:
-- Biology
-- Microbiology
-- Human Anatomy & Physiology
-- Biostatistics
-- Research Methods
-- Medical Terminology
+- Completing Foundations of Computer Science in preparation for graduate study
+- Strengthening data structures, algorithms, and computational problem-solving
+- Advancing Python and SQL for production data workflows
+- Developing end-to-end data engineering and machine-learning projects
+- Studying deep learning, NLP, and recommendation-system concepts
+- Building deployable analytical and AI-enabled applications
+- Exploring applications across fintech, risk, and healthcare
 
-As well as quantitative coursework in:
-- Calculus
-- Statistics
-- Regression Analysis
-- Data Modeling
+---
+
+## Career Interests
+
+- Analytics Engineering
+- Data Engineering
+- Business Intelligence Engineering
+- Data Science
+- Machine Learning and AI
+- Financial Technology
+- Healthcare Analytics
+- Data and AI Product Development
 
 ---
 
