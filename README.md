@@ -119,11 +119,9 @@ I am particularly interested in applying data and AI to financial technology, ri
 
 - Analytics Engineering
 - Data Engineering
-- Business Intelligence Engineering
 - Data Science
 - Machine Learning and AI
 - Financial Technology
-- Healthcare Analytics
 - Data and AI Product Development
 
 ---
