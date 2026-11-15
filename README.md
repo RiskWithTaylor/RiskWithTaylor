@@ -4,7 +4,7 @@
 
 🎓 **B.S. in Information Technology Management** — Western Governors University, 2025  
 🎓 **M.S. in Data Analytics, Data Engineering Concentration** — Western Governors University, 2026  
-🧠 **Preparing for M.S. Computer Science — Artificial Intelligence & Machine Learning**  
+🧠 **Preparing for B.S in AI Engineering at Western Governors University**  
 💼 **Data Analytics & Reporting Analyst**
 
 ---
