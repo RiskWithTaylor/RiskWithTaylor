@@ -105,7 +105,7 @@ I am particularly interested in applying data and AI to financial technology, ri
 
 ## Current Development
 
-- Completing Foundations of Computer Science in preparation for graduate study
+- Completing Foundations of Computer Science in preparation for advanced studying
 - Strengthening data structures, algorithms, and computational problem-solving
 - Advancing Python and SQL for production data workflows
 - Developing end-to-end data engineering and machine-learning projects
